@@ -1,6 +1,6 @@
 class Kky
-{
-    public static void main(String[] args) {
-        System.out.println("hello");
+{n("hello");
     }
+    public static void main(String[] args) {
+        System.out.printl
 }
